@@ -7,4 +7,5 @@ The controls are really weird, so see to the Google site on instructions for man
 ## Where to play?
 
 Google Site: https://sites.google.com/view/splatoon3bannergenerator/home
+
 Github Page: https://ddragonyt.github.io/SplatoonBannerGenerator/
